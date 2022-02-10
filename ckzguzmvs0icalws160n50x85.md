@@ -77,7 +77,7 @@ If you lack sufficient information about the bug, try to get some before you for
 
 >A bug that cannot be reproduced cannot be said to have been fixed.
 
-There might be instances where reproducing the error is impossible or painfully difficult. There are measures to put in place to aid debugging in such cases and would be discussed under the [developments in debugging section](#developments-in-debugging). For now, move on to the next step.
+There might be instances where reproducing the error is impossible or painfully difficult. There are measures to put in place to aid debugging in such cases and would be discussed under the developments in debugging section. For now, move on to the next step.
 
 For web developers, a platform like [Code Sandbox](https://codesandbox.io/) is invaluable in debugging as it provides an isolated environment where the error can be reproduced reliably. No longer would we be haunted by statements like "it fails on my computer".
 
