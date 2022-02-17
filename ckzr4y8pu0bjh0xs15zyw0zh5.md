@@ -25,7 +25,7 @@ This write-up contains explanations as well as a tutorial on how this can be don
 - Understand what coding standards are
 - Understand the advantages of coding standards
 - Understand git hooks
-- Setup git hooks with husky and lint-stage
+- Setup git hooks with husky and lint-staged
 - Configure Eslint, Prettier, and Commitizen
 
 
