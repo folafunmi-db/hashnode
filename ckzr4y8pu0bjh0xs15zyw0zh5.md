@@ -1,6 +1,6 @@
 ## A Guide to Order: Setting up Prettier and Eslint with Husky, Lint-staged and Commitizen
 
->**TLDR:** To save yourself a headache, use [coding standards](/#heading-the-what-why-and-how-of-coding-standards) and become more efficient by [automating your development workflow](/#heading-set-up-husky-and-lint-staged).
+>**TLDR:** To save yourself a headache, use [coding standards](#heading-the-what-why-and-how-of-coding-standards) and become more efficient by [automating your development workflow](#heading-set-up-husky-and-lint-staged).
 
 
 ## Intro
