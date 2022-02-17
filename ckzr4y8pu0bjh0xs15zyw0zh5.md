@@ -1,6 +1,6 @@
 ## A Guide to Order: Setting up Prettier and Eslint with Husky, Lint-staged and Commitzen
 
->**TLDR:** To save yourself a headache, use [coding standards](/#) and become more efficient by [automating your development workflow](/#).
+>**TLDR:** To save yourself a headache, use [coding standards](/#heading-the-what-why-and-how-of-coding-standards) and become more efficient by [automating your development workflow](/#heading-set-up-husky-and-lint-staged).
 
 
 ## Intro
@@ -26,7 +26,7 @@ This write-up contains explanations as well as a tutorial on how this can be don
 - Understand the advantages of coding standards
 - Understand git hooks
 - Setup git hooks with husky and lint-stage
-- Configure Eslint, Prettier and Commitizen
+- Configure Eslint, Prettier, and Commitizen
 
 
 ## Prerequisites
