@@ -65,11 +65,11 @@ This is general aids developer productivity and speeds up work. It reduces the g
 
 ### Style guide
 
-A style guide contains general rules about “how to write” code. This usually contains fine-grained instructions on how code should appear. These would provide guidelines for how the code should look, clearly stating [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern).
+A style guide contains general rules about "how to write" code. This usually contains fine-grained instructions on how code should appear. These would provide guidelines for how the code should look, clearly stating [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern).
 
 To quote [an article](https://medium.com/docon/airbnb-javascript-style-guide-key-takeaways-ffd0370c053) on the topic,
 
->“All code in any code-base should look like a single person typed it, no matter how many people contributed.”
+>"All code in any code-base should look like a single person typed it, no matter how many people contributed."
 
 Typical factors considered when choosing a style guide include:
 Indentation: tabs or spaces, indent width
@@ -302,7 +302,7 @@ Lint-staged allows us to run scripts **only when** certain files are about to be
 ```json
 "scripts":{
 …
-“lint”: “eslint . --fix”,
+"lint": "eslint . --fix",
 "tsc": "tsc",
 "prepare": "husky install"
 }
@@ -315,9 +315,9 @@ Lint-staged allows us to run scripts **only when** certain files are about to be
 "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": [
  "npm run lint",
-“npm run test --watchAll=false --findRelatedTests --bail”,
+"npm run test --watchAll=false --findRelatedTests --bail",
 ],
-    "**/*.{json,css,md}": "prettier --write"
+    "**/*.{json,css,md}": "prettier --write ."
   },
 ```
 
