@@ -4,7 +4,7 @@
 
 ## Intro 
 
-Lewis Caroll description of  Wonderland, as a place where “It takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!”, which epitomizes the current landscape of frontend engineering where standards evolve and change is the only constant.
+Lewis Caroll's description of  Wonderland, as a place where “It takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!”, which epitomizes the current landscape of frontend engineering where standards evolve and change is the only constant.
 
 Several months ago, I stumbled upon an intelligently written [piece](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/) by [Brad Frost](https://bradfrost.com/) on what had then begun to be called [The Great Divide](https://css-tricks.com/the-great-divide/). This made the rounds. In this article, he outlined two functionally distinct aspects of web development: **Front-of-the-front-end web development** and **Back-of-the-front-end web development**.
 
