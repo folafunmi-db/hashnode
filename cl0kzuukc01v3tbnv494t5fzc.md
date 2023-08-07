@@ -366,7 +366,7 @@ I hope this article helps.
 
 Please share your thoughts and opinions in the comments section below.
 
-Co-author: \[Oyeleke Opeyemi\]([https://github.com/opeoyeleke](https://github.com/opeoyeleke))
+Co-author: [Oyeleke Opeyemi](https://github.com/opeoyeleke)
 
 ## Resources
 
